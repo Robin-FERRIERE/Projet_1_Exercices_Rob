@@ -1,0 +1,101 @@
+[
+  {
+    "id": "EXO-001",
+    "thematique": "Définir un process de suivi des exercices (Markdown, GitHub, Kanban)",
+    "langage": "Aucun (organisation)",
+    "outil": ["GitHub", "VS Code", "ChatGPT"],
+    "valeur_pedagogique": "Structurer un workflow d'apprentissage clair et réutilisable",
+    "statut": "Done",
+    "date": "2025-06-09",
+    "device": "Mac",
+    "issue_node_id": "I_kwDOO4jnes66jpXT"
+  },
+  {
+    "id": "EXO-002",
+    "thematique": "Utilisation de Git et GitHub",
+    "langage": "Commandes Git",
+    "outil": ["Terminal", "GitHub"],
+    "valeur_pedagogique": "Savoir versionner un projet, cloner un dépôt, faire des commits, push et pull",
+    "statut": "In progress",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jn2A"
+  },
+  {
+    "id": "EXO-003",
+    "thematique": "Manipulation de fichiers JSON",
+    "langage": "Python",
+    "outil": ["VS Code", "PyMarch"],
+    "valeur_pedagogique": "Comprendre la structure JSON, savoir lire/écrire des fichiers JSON en Python",
+    "statut": "todo",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jpre"
+  },
+  {
+    "id": "EXO-004",
+    "thematique": "Premier appel à une API simple (ex: météo)",
+    "langage": "Python",
+    "outil": ["VS Code", "PyMarch"],
+    "valeur_pedagogique": "Comprendre comment fonctionnent les APIs REST, gérer les requêtes HTTP avec requests",
+    "statut": "À faire",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jpFt"
+  },
+  {
+    "id": "EXO-005",
+    "thematique": "Création d’un script Python simple pour automatiser une tâche",
+    "langage": "Python",
+    "outil": ["VS Code", "PyMarch"],
+    "valeur_pedagogique": "Acquérir les bases de l’automatisation avec Python (ex : renommer des fichiers, trier un dossier)",
+    "statut": "À faire",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jp9S"
+  },
+  {
+    "id": "EXO-006",
+    "thematique": "Exploration de données Evernote en local",
+    "langage": "Python",
+    "outil": ["VS Code", "Pandas"],
+    "valeur_pedagogique": "Savoir lire un export de notes, les structurer, extraire de l’information",
+    "statut": "À faire",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jqJ2"
+  },
+  {
+    "id": "EXO-007",
+    "thematique": "Créer une visualisation simple (ex : camembert, histogramme)",
+    "langage": "Python",
+    "outil": ["matplotlib", "pandas"],
+    "valeur_pedagogique": "Savoir représenter des données de façon graphique",
+    "statut": "À faire",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jqZw"
+  },
+  {
+    "id": "EXO-008",
+    "thematique": "Créer une note Obsidian enrichie depuis un script",
+    "langage": "Python",
+    "outil": ["VS Code", "Obsidian"],
+    "valeur_pedagogique": "Générer des fichiers markdown dynamiquement à partir d’un script",
+    "statut": "À faire",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66leHm"
+  },
+  {
+    "id": "EXO-009",
+    "thematique": "Premier script Python : Hello World ",
+    "langage": "Python",
+    "outil": ["VS Code", "Terminal"],
+    "valeur_pedagogique": "Comprendre le cycle complet d'exécution d'un script Python (édition, sauvegarde, exécution)",
+    "statut": "À faire",
+    "date": "",
+    "device": "Mac",
+    "issue_node_id": "I_kwDOO4jnes66jom"
+  }
+]

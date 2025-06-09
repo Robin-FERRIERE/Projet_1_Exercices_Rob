@@ -1,0 +1,83 @@
+[
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSG0Y",
+    "issue_id": "I_kwDOO4jnes66leHm",
+    "number": 9,
+    "title": "Hello World en Python",
+    "updatedAt": "2025-06-09T22:08:49Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSGzQ",
+    "issue_id": "I_kwDOO4jnes66jom_",
+    "number": 2,
+    "title": "- [ ] 📘 Utilisation de Git et GitHub",
+    "updatedAt": "2025-06-09T22:08:12Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSGzE",
+    "issue_id": "I_kwDOO4jnes66jn2A",
+    "number": 1,
+    "title": "- [ ] 📘 Définir un process de suivi des exercices (Markdown, GitHub, Kanban)",
+    "updatedAt": "2025-06-09T22:08:23Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSGz0",
+    "issue_id": "I_kwDOO4jnes66jpre",
+    "number": 5,
+    "title": "- [ ] 📘 Création d’un script Python simple pour automatiser une tâche",
+    "updatedAt": "2025-06-09T22:09:03Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSGzY",
+    "issue_id": "I_kwDOO4jnes66jpFt",
+    "number": 3,
+    "title": "- [ ] 📘 Manipulation de fichiers JSON",
+    "updatedAt": "2025-06-09T22:06:45Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSG0I",
+    "issue_id": "I_kwDOO4jnes66jqJ2",
+    "number": 7,
+    "title": "- [ ] 📘 Créer une visualisation simple (ex : camembert, histogramme)",
+    "updatedAt": "2025-06-09T17:37:20Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSGzk",
+    "issue_id": "I_kwDOO4jnes66jpXT",
+    "number": 4,
+    "title": "- [ ] 📘 Premier appel à une API simple (ex: météo)",
+    "updatedAt": "2025-06-09T22:08:40Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSG0Q",
+    "issue_id": "I_kwDOO4jnes66jqZw",
+    "number": 8,
+    "title": "- [ ] 📘 Créer une note Obsidian enrichie depuis un script",
+    "updatedAt": "2025-06-09T17:37:22Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "card_id": "PVTI_lAHODNUI3s4A7C9pzgbSG0E",
+    "issue_id": "I_kwDOO4jnes66jp9S",
+    "number": 6,
+    "title": "- [ ] 📘 Exploration de données Evernote en local",
+    "updatedAt": "2025-06-09T22:08:36Z",
+    "statut": null,
+    "priorite": null
+  }
+]

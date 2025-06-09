@@ -1,0 +1,152 @@
+[
+  {
+    "id": "EXO-001",
+    "thematique": "Définir un process de suivi des exercices (Markdown, GitHub, Kanban)",
+    "langage": "Aucun (organisation)",
+    "outil": [
+      "GitHub",
+      "VS Code",
+      "ChatGPT"
+    ],
+    "valeur_pedagogique": "Structurer un workflow d'apprentissage clair et réutilisable",
+    "status": "todo",
+    "date": "2025-06-09",
+    "device": "Mac",
+    "issue_node_id": "I_kwDOO4jnes66jpXT",
+    "updatedAt": "2025-06-09T22:08:40Z",
+    "priorite": null,
+    "statut": null
+  },
+  {
+    "id": "EXO-002",
+    "thematique": "Utilisation de Git et GitHub",
+    "langage": "Commandes Git",
+    "outil": [
+      "Terminal",
+      "GitHub"
+    ],
+    "valeur_pedagogique": "Savoir versionner un projet, cloner un dépôt, faire des commits, push et pull",
+    "status": "todo",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jn2A",
+    "updatedAt": "2025-06-09T22:08:23Z",
+    "priorite": null,
+    "statut": null
+  },
+  {
+    "id": "EXO-003",
+    "thematique": "Manipulation de fichiers JSON",
+    "langage": "Python",
+    "outil": [
+      "VS Code",
+      "PyMarch"
+    ],
+    "valeur_pedagogique": "Comprendre la structure JSON, savoir lire/écrire des fichiers JSON en Python",
+    "status": "todo",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jpre",
+    "updatedAt": "2025-06-09T22:09:03Z",
+    "priorite": null,
+    "statut": null
+  },
+  {
+    "id": "EXO-004",
+    "thematique": "Premier appel à une API simple (ex: météo)",
+    "langage": "Python",
+    "outil": [
+      "VS Code",
+      "PyMarch"
+    ],
+    "valeur_pedagogique": "Comprendre comment fonctionnent les APIs REST, gérer les requêtes HTTP avec requests",
+    "status": "todo",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jpFt",
+    "updatedAt": "2025-06-09T22:06:45Z",
+    "priorite": null,
+    "statut": null
+  },
+  {
+    "id": "EXO-005",
+    "thematique": "Création d’un script Python simple pour automatiser une tâche",
+    "langage": "Python",
+    "outil": [
+      "VS Code",
+      "PyMarch"
+    ],
+    "valeur_pedagogique": "Acquérir les bases de l’automatisation avec Python (ex : renommer des fichiers, trier un dossier)",
+    "status": "todo",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jp9S",
+    "updatedAt": "2025-06-09T22:08:36Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "id": "EXO-006",
+    "thematique": "Exploration de données Evernote en local",
+    "langage": "Python",
+    "outil": [
+      "VS Code",
+      "Pandas"
+    ],
+    "valeur_pedagogique": "Savoir lire un export de notes, les structurer, extraire de l’information",
+    "status": "todo",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jqJ2",
+    "updatedAt": "2025-06-09T20:39:37Z"
+  },
+  {
+    "id": "EXO-007",
+    "thematique": "Créer une visualisation simple (ex : camembert, histogramme)",
+    "langage": "Python",
+    "outil": [
+      "matplotlib",
+      "pandas"
+    ],
+    "valeur_pedagogique": "Savoir représenter des données de façon graphique",
+    "status": "todo",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66jqZw",
+    "updatedAt": "2025-06-09T20:39:37Z"
+  },
+  {
+    "id": "EXO-008",
+    "thematique": "Créer une note Obsidian enrichie depuis un script",
+    "langage": "Python",
+    "outil": [
+      "VS Code",
+      "Obsidian"
+    ],
+    "valeur_pedagogique": "Générer des fichiers markdown dynamiquement à partir d’un script",
+    "status": "todo",
+    "date": "",
+    "device": "",
+    "issue_node_id": "I_kwDOO4jnes66leHm",
+    "updatedAt": "2025-06-09T22:08:49Z",
+    "statut": null,
+    "priorite": null
+  },
+  {
+    "id": "EXO-009",
+    "thematique": "Premier script Python : Hello World ",
+    "langage": "Python",
+    "outil": [
+      "VS Code",
+      "Terminal"
+    ],
+    "valeur_pedagogique": "Comprendre le cycle complet d'exécution d'un script Python (édition, sauvegarde, exécution)",
+    "status": "done",
+    "date": "",
+    "device": "Mac",
+    "issue_node_id": "I_kwDOO4jnes66jom_",
+    "updatedAt": "2025-06-09T22:08:12Z",
+    "priorite": null,
+    "statut": null
+  }
+]
