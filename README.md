@@ -1,9 +1,45 @@
-# Projet_1_Exercices_Rob
-Suivi des exercices pratiques avec tableau markdown et kanban (progression synchro avec ChatGPT)
+# Projet 1 – Suivi des exercices Rob
 
-## 📋 Suivi Kanban
+Ce dépôt contient les scripts et les données permettant d’automatiser le suivi des exercices d’apprentissage de Robin via GitHub Projects.
 
-👉 [Accéder au projet GitHub Kanban](https://github.com/Robin-FERRIERE/Projet_1_Exercices_Rob/projects)
+## 🔧 Fonctionnalités principales
+
+- Lecture d’un fichier `exercices.json` structurant les exercices.
+- Génération automatique des issues GitHub pour chaque exercice.
+- Ajout de chaque issue dans le GitHub Project.
+- Mise à jour automatique du champ **Statut** dans le kanban GitHub.
+
+## 📁 Structure des fichiers
+
+- `main.py` : script principal d’automatisation.
+- `exercices.json` : base de données des exercices (format JSON).
+- `.env` : variables d’environnement (token GitHub, ID projet).
+- `README.md` : ce fichier !
+
+## 🚀 Pour exécuter le projet
+
+1. Cloner le dépôt :
+```bash
+git clone https://github.com/Robin-FERRIERE/Projet_1_Exercices_Rob.git
+cd Projet_1_Exercices_Rob
+```
+
+2. Créer un fichier `.env` avec les informations suivantes :
+```
+GITHUB_TOKEN=ghp_...
+GITHUB_PROJECT_ID=PVT_...
+```
+
+3. Lancer le script :
+```bash
+python3 main.py
+```
+
+## 🧠 Remarques
+
+- Le script vérifie si une issue existe déjà (via un identifiant unique dans le corps).
+- Il utilise l’API GraphQL de GitHub.
+- Le champ `statut` dans le fichier JSON peut être : `À faire`, `En cours`, `Fait`.
 
 
 ✅ Processus de suivi d’un nouvel exercice
